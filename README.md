@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Databricks Metadata Table Resolver Automation</title>
+    
 </head>
 <body>
 
