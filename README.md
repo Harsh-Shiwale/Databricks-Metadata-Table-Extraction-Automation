@@ -6,7 +6,8 @@
 </head>
 <body>
 
-<h1>Databricks Metadata Table Resolver Automation</h1>
+<h1>Databricks Metadata Table Extraction
+Automation</h1>
 
 <h2>Overview</h2>
 <p>
